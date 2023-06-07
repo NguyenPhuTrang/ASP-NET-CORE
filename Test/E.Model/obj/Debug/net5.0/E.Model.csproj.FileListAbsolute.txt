@@ -1,0 +1,15 @@
+D:\Workspace\Donet nang cao\Test\E.Model\bin\Debug\net5.0\E.Model.deps.json
+D:\Workspace\Donet nang cao\Test\E.Model\bin\Debug\net5.0\E.Model.runtimeconfig.json
+D:\Workspace\Donet nang cao\Test\E.Model\bin\Debug\net5.0\E.Model.runtimeconfig.dev.json
+D:\Workspace\Donet nang cao\Test\E.Model\bin\Debug\net5.0\E.Model.dll
+D:\Workspace\Donet nang cao\Test\E.Model\bin\Debug\net5.0\ref\E.Model.dll
+D:\Workspace\Donet nang cao\Test\E.Model\bin\Debug\net5.0\E.Model.pdb
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.csproj.AssemblyReference.cache
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.AssemblyInfoInputs.cache
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.AssemblyInfo.cs
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.csproj.CoreCompileInputs.cache
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.dll
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\ref\E.Model.dll
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.pdb
+D:\Workspace\Donet nang cao\Test\E.Model\obj\Debug\net5.0\E.Model.genruntimeconfig.cache

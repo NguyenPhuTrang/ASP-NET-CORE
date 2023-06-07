@@ -1,0 +1,73 @@
+﻿@model HocHTMLHelper.Models.SinhVien
+@{
+    ViewData["Title"] = "Create";
+}
+@*Cach 1
+    <div class="container col-md-6">
+        <h3>Them moi sinh vien</h3>
+        <form action="/Home/Save" method="post">
+            <div class="form-group">
+                <label>Ma Sinh Vien</label>
+                <input type="text" name="masv" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Ho & Ten</label>
+                <input type="text" name="hoten" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Dia Chi</label>
+                <input type="text" name="diachi" class="form-control" />
+            </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-success" value="Them Moi" />
+                </div>
+        </form>
+    </div>
+*@
+@*//Cach 2
+    <div class="container col-md-6">
+        <h3>Them moi sinh vien</h3>
+        @{ Html.BeginForm("Save", "Home");}
+        <div class="form-group">
+            @Html.Label("masv", "Ma sinh vien");
+            @Html.TextBox("masv", null, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.Label("hoten", "Ho & ten");
+            @Html.TextBox("masv", null, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.Label("diachi", "Dia chi");
+            @Html.TextBox("masv", null, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-success" value="Them Moi" />
+        </div>
+        @{ Html.EndForm();}
+
+    </div>*@
+
+        @* cach 3 *@
+        <div class="container" col -md-6>
+        <h3>Them moi sinh vien</h3>
+        @using (Html.BeginForm("Save", "Student"))
+        {
+            <div class="form-group">
+                @Html.LabelFor(x => x.MaSv, "Ma Sinh Vien")
+                @Html.TextBoxFor(x => x.MaSv, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Hoten, "Ho & Ten")
+                @Html.TextBoxFor(x => x.Hoten, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.DiaChi, "Dia chi")
+                @Html.TextBoxFor(x => x.DiaChi, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-success" value="Them moi" />
+            </div>
+
+
+        }
+    </div>

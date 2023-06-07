@@ -1,0 +1,15 @@
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.csproj.AssemblyReference.cache
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.AssemblyInfoInputs.cache
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.AssemblyInfo.cs
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.csproj.CoreCompileInputs.cache
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\bin\Debug\net7.0\Hoc_Delegate.exe
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\bin\Debug\net7.0\Hoc_Delegate.deps.json
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\bin\Debug\net7.0\Hoc_Delegate.runtimeconfig.json
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\bin\Debug\net7.0\Hoc_Delegate.dll
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\bin\Debug\net7.0\Hoc_Delegate.pdb
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.dll
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\refint\Hoc_Delegate.dll
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.pdb
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\Hoc_Delegate.genruntimeconfig.cache
+D:\Workspace\Donet nang cao\Hoc_Delegate\Hoc_Delegate\obj\Debug\net7.0\ref\Hoc_Delegate.dll

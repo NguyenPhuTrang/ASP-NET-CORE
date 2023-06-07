@@ -1,0 +1,15 @@
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\bin\Debug\net6.0\KhoiTaoDoiTuong.exe
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\bin\Debug\net6.0\KhoiTaoDoiTuong.deps.json
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\bin\Debug\net6.0\KhoiTaoDoiTuong.runtimeconfig.json
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\bin\Debug\net6.0\KhoiTaoDoiTuong.dll
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\bin\Debug\net6.0\KhoiTaoDoiTuong.pdb
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.csproj.AssemblyReference.cache
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.AssemblyInfoInputs.cache
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.AssemblyInfo.cs
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.csproj.CoreCompileInputs.cache
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.dll
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\refint\KhoiTaoDoiTuong.dll
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.pdb
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\KhoiTaoDoiTuong.genruntimeconfig.cache
+D:\Workspace\Donet nang cao\Lession02\KhoiTaoDoiTuong\obj\Debug\net6.0\ref\KhoiTaoDoiTuong.dll

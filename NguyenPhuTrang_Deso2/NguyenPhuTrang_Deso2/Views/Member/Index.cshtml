@@ -1,0 +1,42 @@
+﻿@model List<NguyenPhuTrang_Deso2.Models.Member>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<h7>Danh sach cac thanh vien</h7>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Ma thanh vien</th>
+            <th>Ho & Ten</th>
+            <th>Tuoi</th>
+            <th>Email</th>
+            <th>Xoa</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MemberId</td>
+                <td>@item.Username</td>
+                <td>@item.Age</td>
+                <td>@item.Email</td>
+                <td>
+                    @Html.ActionLink("Xoa", "Delete", new { MemberId = item.MemberId})
+                </td>
+                
+                
+            </tr>
+        }
+    </tbody>
+
+</table>
+<a href="/Member/Add" class="btn btn-success">Them Moi</a>
+
+
+
+

@@ -1,0 +1,32 @@
+﻿@model List<Nguyen_Phu_Trang_DeSo2.Models.BaiViet>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Danh sách các bài viết</h2>
+<a href="/BaiViet/Add" class="btn btn-success">Thêm mới bài viết</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã bài viết</th>
+            <th>Tiêu đề</th>
+            <th>Nội dung</th>
+            <th>NgayPost</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaBaiViet</td>
+                <td>@item.TieuDe</td>
+                <td>@item.NoiDung</td>
+                <td>@item.NoiDung</td>
+                <td>
+                    <a class="btn btn-success" href="/BaiViet/Edit/@item.MaBaiViet" style="margin-right: 10px">Sửa</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-controller="BaiViet" asp-route-id="@item.MaBaiViet">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

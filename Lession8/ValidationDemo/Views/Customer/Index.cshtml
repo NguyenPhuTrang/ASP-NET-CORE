@@ -1,0 +1,30 @@
+﻿@model List<ValidationDemo.Models.Customer>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h7>Danh sách khách hàng</h7>
+<a href="/Customer/Create" class="btn btn-primary my-3">Thêm mới</a>
+<table class="table" >
+    <thead>
+        <tr>
+            <th>Mã khách hàng </th>
+            <th>Họ & Tên </th>
+            <th>Emai</th>
+            <th>Điện thoại</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.CustomerId</td>
+                    <td>@item.CustomerName</td>
+                    <td>@item.Emai</td>
+                    <td>@item.Phone</td>
+                </tr>
+            }
+    </tbody>
+</table>
+

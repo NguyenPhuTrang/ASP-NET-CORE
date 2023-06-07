@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "GetData";
+    var songs = ViewBag.songs;
+    var songs2 = ViewData["song2"] as List<string>;
+}
+
+<p class="alert alert-danger"> Du lieu nhan tu ViewBag : @ViewBag.message1</p>
+<p class="alert alert-info">Du lieu nhan tu ViewData: @ViewData["message2"]</p>
+<p class="alert alert-primary" >Du lieu nhan tu TempData : @TempData["message3"]</p>
+<h3>Danh sach cac bai hat yeu thich</h3>
+@foreach (var item in songs)
+{ 
+   <p>@item</p>
+}
+
+<h3>Danh sach cac bai hat yeu thich 2</h3>
+@foreach (var item in songs2)
+    {
+        <p>@item</p>
+    }

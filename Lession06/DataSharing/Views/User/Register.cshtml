@@ -1,0 +1,29 @@
+﻿@model DataSharing.Models.User
+@{
+    ViewData["Title"] = "Register";
+}
+<div class="container col-md-5">
+    <h3>Dang ky thanh vien</h3>
+    <form asp-action="Register" asp-controller="User"  method="post">
+        <div class="form-group">
+            <label asp-for="UserName">Ten nguoi dung</label>
+            <input type="text" asp-for="UserName" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password">Mat khau</label>
+            <input type="text" asp-for="Password" class="form-control" type="password" />
+        </div>
+        <div class="form-group">
+            <label asp-for="FullName">Ho Ten</label>
+            <input type="text" asp-for="FullName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Email">Email</label>
+            <input type="text" asp-for="Email" class="form-control" type="email" />
+        </div>
+        <div>
+            <button class="btn btn-success">Dang Ky</button>
+        </div>
+    </form>
+</div>
+

@@ -1,0 +1,15 @@
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\bin\Debug\net6.0\StringInterpolation.exe
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\bin\Debug\net6.0\StringInterpolation.deps.json
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\bin\Debug\net6.0\StringInterpolation.runtimeconfig.json
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\bin\Debug\net6.0\StringInterpolation.dll
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\bin\Debug\net6.0\StringInterpolation.pdb
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.AssemblyReference.cache
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfoInputs.cache
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfo.cs
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.CoreCompileInputs.cache
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.dll
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\refint\StringInterpolation.dll
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.pdb
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\StringInterpolation.genruntimeconfig.cache
+D:\Workspace\Donet nang cao\Lession02\StringInterpolation\obj\Debug\net6.0\ref\StringInterpolation.dll

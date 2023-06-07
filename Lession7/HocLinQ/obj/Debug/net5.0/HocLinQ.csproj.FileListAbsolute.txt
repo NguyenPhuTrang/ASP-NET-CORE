@@ -1,0 +1,16 @@
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\bin\Debug\net5.0\HocLinQ.exe
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\bin\Debug\net5.0\HocLinQ.deps.json
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\bin\Debug\net5.0\HocLinQ.runtimeconfig.json
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\bin\Debug\net5.0\HocLinQ.runtimeconfig.dev.json
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\bin\Debug\net5.0\HocLinQ.dll
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\bin\Debug\net5.0\ref\HocLinQ.dll
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\bin\Debug\net5.0\HocLinQ.pdb
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.csproj.AssemblyReference.cache
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.AssemblyInfoInputs.cache
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.AssemblyInfo.cs
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.csproj.CoreCompileInputs.cache
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.dll
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\ref\HocLinQ.dll
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.pdb
+D:\Workspace\Donet nang cao\Lession7\HocLinQ\obj\Debug\net5.0\HocLinQ.genruntimeconfig.cache

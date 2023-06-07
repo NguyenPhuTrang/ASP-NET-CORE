@@ -1,0 +1,134 @@
+﻿@model HocRazor.Models.Student
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    // code C#, Razor
+    var hello = "Hello World";
+    var date = DateTime.Now;
+}
+<h2>Loi chao : @hello</h2>
+<p>Hom nay la: @date</p>
+
+<!--Cau truc re nhanh if ..else-->
+@{
+    var nam = 2023;
+}
+@if ((nam % 4 == 0 && nam % 100 != 0) || (nam % 400 == 0))
+{
+    <p>@nam la nam nhuan </p>
+}
+else
+{
+    <p>@nam khong phai la nam nhuan </p>
+}
+
+<!--Cau truc lua chon Switch case-->
+@{
+    var month = DateTime.Now.Month;
+}
+@switch (month)
+{
+    case 1:
+        <p>Thang 1</p>
+        break;
+    case 2:
+        <p>Thang 2</p>
+        break;
+    case 3:
+        <p>Thang 3</p>
+        break;
+    case 4:
+        <p>Thang 4</p>
+        break;
+    case 5:
+        <p>Thang 5</p>
+        break;
+    case 6:
+        <p>Thang 6</p>
+        break;
+    case 7:
+        <p>Thang 7</p>
+        break;
+    case 8:
+        <p>Thang 8</p>
+        break;
+    case 9:
+        <p>Thang 9</p>
+        break;
+    case 10:
+        <p>Thang 10</p>
+        break;
+    case 11:
+        <p>Thang 11</p>
+        break;
+    case 12:
+        <p>Thang 12</p>
+        break;
+}
+<!-- Cau truc lap For -->
+@{ var flowers = new List<string>()
+
+{
+    "Mai", "Hong", "Dao", "Ban", "Hue"
+   };
+}
+
+<h7>Danh sach cac loai hoa</h7>
+
+@for (int i = 0; i < flowers.Count; i++)
+{
+    <p>Hoa @flowers[i]</p>
+}
+<!-- Cau truc While-->
+@{
+    int j = 0;
+}
+@while (j < flowers.Count)
+{
+    <p>Hoa @flowers[j]</p>
+    j++;
+}
+<!--Cau truc lap Do while-->
+@{
+    int t = 0;
+}
+@do
+{
+  <p>Hoa @flowers[t]</p>
+    t++;
+} while(t < flowers.Count);
+<!--Cau truc lap foreach-->
+@{
+    var students = new List<Student>()
+{
+        new Student(){StudentId="101", StudentName="NPT", Address="HN"},
+        new Student(){StudentId="102", StudentName="CPT", Address="HG"},
+        new Student(){StudentId="103", StudentName="DPT", Address="HB"},
+        new Student(){StudentId="104", StudentName="EPT", Address="HP"},
+        new Student(){StudentId="105", StudentName="FPT", Address="VN"},
+        new Student(){StudentId="106", StudentName="mPT", Address="KN"}
+
+
+    };
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ma Sinh vien</th>
+            <th>Ho & Ten</th>
+            <th>Dia Chi</th>
+        </tr>
+    </thead>
+    @foreach (var item in students)
+    {
+        <tr>
+            <th>@item.StudentId</th>
+            <th>@item.StudentName</th>
+            <th>@item.Address</th>
+        </tr>
+
+    }
+</table>
+

@@ -1,0 +1,33 @@
+﻿@model Nguyen_Phu_Trang_DeSo2.Models.BaiViet
+@{
+    ViewData["Title"] = "Add";
+}
+
+<div class="col-md-6">
+    <h1>Thêm mới bài viết</h1>
+    <form action="/BaiViet/Add" method="post">
+        <div class="form-group">
+            <label asp-for="MaBaiViet"></label>
+            <input asp-for="MaBaiViet" class="form-control" />
+            <span asp-validation-for="MaBaiViet" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TieuDe"></label>
+            <input asp-for="TieuDe" class="form-control" />
+            <span asp-validation-for="TieuDe" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NoiDung"></label>
+            <input asp-for="NoiDung" class="form-control" />
+            <span asp-validation-for="NoiDung" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NgayPost"></label>
+            <input asp-for="NgayPost" class="form-control" />
+            <span asp-validation-for="NgayPost" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" name="name" value="Thêm mới" class="btn btn-success" />
+        </div>
+    </form>
+</div>

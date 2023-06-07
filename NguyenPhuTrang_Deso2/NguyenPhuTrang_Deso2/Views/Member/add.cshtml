@@ -1,0 +1,31 @@
+﻿@model List<NguyenPhuTrang_Deso2.Models.Member>
+@{
+    ViewData["Title"] = "add";
+}
+
+<h1>add</h1>
+<form action="Save" method="post">
+    <h3>Them moi thanh vien</h3>
+    <div class="form-group">
+        <label>Ma Thanh Vien</label>
+        <input type="text" name="MemberId" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ho & Ten</label>
+        <input type="text" name="Username" value="" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Mat Khau</label>
+        <input type="password" name="Password" value="" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Tuoi</label>
+        <input type="text" name=" Age" value="" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="text" name="Email" value="" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Them moi</button>
+</form>
+

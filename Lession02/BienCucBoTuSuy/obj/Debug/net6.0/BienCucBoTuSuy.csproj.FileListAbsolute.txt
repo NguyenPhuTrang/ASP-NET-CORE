@@ -1,0 +1,15 @@
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\bin\Debug\net6.0\BienCucBoTuSuy.exe
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\bin\Debug\net6.0\BienCucBoTuSuy.deps.json
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\bin\Debug\net6.0\BienCucBoTuSuy.runtimeconfig.json
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\bin\Debug\net6.0\BienCucBoTuSuy.dll
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\bin\Debug\net6.0\BienCucBoTuSuy.pdb
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.csproj.AssemblyReference.cache
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.AssemblyInfoInputs.cache
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.AssemblyInfo.cs
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.csproj.CoreCompileInputs.cache
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.dll
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\refint\BienCucBoTuSuy.dll
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.pdb
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\BienCucBoTuSuy.genruntimeconfig.cache
+D:\Workspace\Donet nang cao\Lession02\BienCucBoTuSuy\obj\Debug\net6.0\ref\BienCucBoTuSuy.dll

@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a href="/Home/Privacy" class="btn btn-success">Submit</a>
+<a href="@Url.Action("Privacy","Home")" class="btn btn-success">Submit</a>
+@Html.ActionLink("Submit", "Privacy", "Home", new {@class = "btn btn-success"})
+<a asp-action="Privacy" asp-controller="Home" class="btn btn-success">Submit</a>
